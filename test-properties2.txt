@@ -1,0 +1,34 @@
+{
+  "properties":[
+    {
+      "name": "House 1",
+      "lon": "10.7378",
+      "lat": "59.9086",
+      "details": "A Grade II listed five bedroom wing in need of renovation."
+    },
+    {
+      "name": "House 2",
+      "lon": "10.7384",
+      "lat": "59.9110",
+      "details": "A Grade II listed five bedroom wing in need of renovation."
+    },
+    {
+      "name": "House 3",
+      "lon": "10.7415",
+      "lat": "59.9092",
+      "details": "A Grade II listed five bedroom wing in need of renovation."
+    },
+    {
+      "name": "House 4",
+      "lon": "10.7377",
+      "lat": "59.9174",
+      "details": "A Grade II listed five bedroom wing in need of renovation."
+    },
+    {
+      "name": "House 5",
+      "lon": "10.7723",
+      "lat": "59.9094",
+      "details": "A Grade II listed five bedroom wing in need of renovation."
+    }
+  ]
+}
